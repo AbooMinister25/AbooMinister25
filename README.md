@@ -1,7 +1,8 @@
 ### Hi, I'm AbooMinister25
 
-#### I'm 13 years old, (14 in December), and I mostly code in python. I've made several things, such as
+#### I'm 14 years old, and I mostly code in python. I've made several things, such as
 
+- A Programming Language
 - A Discord Bot
 - A Virtual Assistant
 - A Password Manager (I don't actually use it though, it was mostly just for fun)
