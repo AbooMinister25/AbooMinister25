@@ -1,6 +1,6 @@
 ## Hi, I'm Rayyan Cyclegar.
 
-I'm 14 years old, and a programming enthusiast. I program in Python, Rust, and Typescript, and enjoy doing web development, as well as language design. Here are some technologies I've used.
+I'm 14 years old, and a programming enthusiast. I program in Python, Rust, C, and Typescript, and enjoy doing web development, as well as language design. Here are some technologies I've used.
 
 * Next.JS
 * React.JS
