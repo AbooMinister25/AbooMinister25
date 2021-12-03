@@ -4,6 +4,7 @@ I'm 14 years old, and a programming enthusiast. I program in Python, Rust, C, an
 
 * Next.JS
 * React.JS
+* Svelte
 * FastAPI
 * PostgreSQL
 * Git
