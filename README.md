@@ -1,6 +1,6 @@
 ## Hi, I'm Rayyan Cyclegar.
 
-I'm 15 years old, and a programming enthusiast. I program in Python, Rust, C, and Typescript, and enjoy doing web development, as well as language design. Here are some technologies I've used.
+I'm a 15 year old programming enthusiast. I've programmed in Python, Rust, C, and Typescript, and enjoy doing web development, as well as language design. Here are some technologies I've used.
 
 * Next.JS
 * React.JS
@@ -9,9 +9,6 @@ I'm 15 years old, and a programming enthusiast. I program in Python, Rust, C, an
 * PostgreSQL
 * Git
 * Docker
-
-I also enjoy ricing my desktop :P
-I use arch btw.
 
 [![AbooMinister's Github Stats](https://github-readme-stats.vercel.app/api?username=AbooMinister25&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
