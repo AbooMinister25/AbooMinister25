@@ -1,6 +1,6 @@
 ## Hi, I'm Rayyan Cyclegar.
 
-I'm a high schooler and programming enthusiast.
+Incoming CS student at Purdue University
 
 Staff at `discord.gg/Python`
 
