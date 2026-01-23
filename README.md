@@ -1,6 +1,6 @@
 ## Hi, I'm Rayyan Cyclegar.
 
-CS student at Purdue University
+CS student
 
 Staff at `discord.gg/Python`
 
