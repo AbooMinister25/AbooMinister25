@@ -2,8 +2,6 @@
 
 CS student
 
-Staff at `discord.gg/Python`
-
 Core developer at [Vipyr Security](https://github.com/vipyrsec).
 
 https://rayyanc.com/
